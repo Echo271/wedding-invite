@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300&family=Philosopher:ital,wght@0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Allura&display=swap');
+
+h2{
+    font-family: 'Oswald', sans-serif;
+    
+}
+
+.tanggal {
+    font-family: 'Philosopher', sans-serif;
+    color: #BD83CE;
+}
+
+.mempelai,.acara{
+    font-family: 'Allura', cursive;
+    font-weight: bold;
+}
+
+iframe {
+    border-color: #BD83CE;
+    border: 10px;
+}
+
+p,h1 {
+    font-family: 'Philosopher', sans-serif;
+}
+
+.acara {
+    color: #BD83CE;
+}
+
+.buka {
+    font-family: 'Philosopher', sans-serif;   
+}
+
+.judul {
+    font-family: 'Allura', cursive;
+    font-size: 70px;
+    font-weight: bold;
+    color: #BD83CE;
+}
+
+.judul2 {
+    font-family: 'Allura', cursive;
+    font-weight: bold;
+    color: #BD83CE;
+}
