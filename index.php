@@ -1,7 +1,7 @@
 <?php 
     if(isset($_GET['to'])){
         $undang = $_GET['to'];
-        $nama = $undang + " & Partner";
+        $nama = $undang." & Partner";
     }else{
         $nama = "Saudara/Saudari";
     }
