@@ -19,7 +19,7 @@
   <body>
     
     <div class="container">
-        <div class="row d-flex justify-content-center">
+        <div class="row d-flex justify-content-evenly">
             <img src="img/corner 10.png" alt="" class="w-25">
             <img src="img/corner 11.png" alt="" class="w-25">
         </div>
@@ -35,7 +35,7 @@
         </div>
     </div>
     <div class="container">
-        <div class="row d-flex justify-content-center">
+        <div class="row d-flex justify-content-evenly">
             <img src="img/corner 13.png" alt="" class="w-25">
             <img src="img/corner 12.png" alt="" class="w-25">
         </div>
