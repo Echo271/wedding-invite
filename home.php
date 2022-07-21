@@ -123,7 +123,7 @@
                 <h2 class="tanggal">Amplop Online</h2>
                 <p>Doa Restu Anda merupakan karunia yang sangat berarti bagi kami. Dan jika memberi adalah ungkapan tanda kasih anda, anda dapat memberi kado secara cashless.</p>
                 <img src="img/Logo-BNI-Bank-Negara-Indonesia-46-Vector-.png" alt="BNI" class="w-25">
-                <p></p>
+                <p>1172255739</p>
                 <h3 class="buka">Eka Nur Annisa Putri</h3>
             </div>
         </div>
