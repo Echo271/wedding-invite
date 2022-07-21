@@ -27,17 +27,10 @@
     <div class="container">
         <div class="row text-center">
             <div class="col">
-                <h1 class="judul">Ena</h1>
+                <h1 class="judul">Wanita</h1>
                 <h2 class="judul2">&</h2>
-                <h1 class="judul">Putra</h1>
+                <h1 class="judul">Pria</h1>
                 <h3 class="judul2">Sabtu, 23 Juli 2022</h3>
-                
-                <p class="pt-3"><?= $nama; ?></p>
-                <div class="col">
-                    <a href="home.php" class="btn text-light" style="background-color: #BD83CE ;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-envelope-open-fill" viewBox="0 0 16 16">
-                        <path d="M8.941.435a2 2 0 0 0-1.882 0l-6 3.2A2 2 0 0 0 0 5.4v.314l6.709 3.932L8 8.928l1.291.718L16 5.714V5.4a2 2 0 0 0-1.059-1.765l-6-3.2ZM16 6.873l-5.693 3.337L16 13.372v-6.5Zm-.059 7.611L8 10.072.059 14.484A2 2 0 0 0 2 16h12a2 2 0 0 0 1.941-1.516ZM0 13.373l5.693-3.163L0 6.873v6.5Z"/>
-                    </svg> Open Invitation</a>
-                </div>
             </div>
         </div>
     </div>
@@ -45,6 +38,18 @@
         <div class="row d-flex justify-content-center">
             <img src="img/corner 13.png" alt="" class="w-25">
             <img src="img/corner 12.png" alt="" class="w-25">
+        </div>
+    </div>
+    <div class="container pt-2" style="padding-bottom: 100px;">
+        <div class="row text-center">
+            <div class="col">
+            <p class="pt-3"><?= $nama; ?></p>
+                <div class="col">
+                    <a href="home.php" class="btn text-light" style="background-color: #BD83CE ;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-envelope-open-fill" viewBox="0 0 16 16">
+                        <path d="M8.941.435a2 2 0 0 0-1.882 0l-6 3.2A2 2 0 0 0 0 5.4v.314l6.709 3.932L8 8.928l1.291.718L16 5.714V5.4a2 2 0 0 0-1.059-1.765l-6-3.2ZM16 6.873l-5.693 3.337L16 13.372v-6.5Zm-.059 7.611L8 10.072.059 14.484A2 2 0 0 0 2 16h12a2 2 0 0 0 1.941-1.516ZM0 13.373l5.693-3.163L0 6.873v6.5Z"/>
+                    </svg> Open Invitation</a>
+                </div>
+            </div>
         </div>
     </div>
 
