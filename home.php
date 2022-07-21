@@ -129,27 +129,27 @@
             <div class="col text-center">
                 <p>Tanpa mengurangi rasa hormat, dikarenakan masih dalam masa pandemi Covid-19, dan demi mematuhi protokol kesehatan ditatanan hidup baru. Demi kenyamanan bersama, kami memohon agar para tamu undangan yang hadir berkenan menerapkan protokol kesehatan.</p>
                 <div class="row pt-3">
-                    <div class="col">
+                    <div class="col-4">
                         <img src="img/cuci tanga.png" alt="cuci tangan" class="w-75">
                         <p>Cuci Tangan</p>
                     </div>
-                    <div class="col">
+                    <div class="col-4">
                         <img src="img/masker.png" alt="pakai masker" class="w-75">
                         <p>Pakai Masker</p>
                     </div>
-                    <div class="col">
+                    <div class="col-4">
                         <img src="img/jaga jarak.png" alt="jaga jarak" class="w-75">
                         <p>Jaga Jarak</p>
                     </div>
-                    <div class="col">
+                    <div class="col-4">
                         <img src="img/tidak berjabat.png" alt="tidak berjabat tangan" class="w-75"> 
                         <p>Tidak Berjabat Tangan</p>
                     </div>
-                    <div class="col">
+                    <div class="col-4">
                         <img src="img/hindari kerumunan.png" alt="hindari kerumunan" class="w-75">
                         <p>Hindari Kerumunan</p>
                     </div>
-                    <div class="col">
+                    <div class="col-4">
                         <img src="img/hand sanitizer.png" alt="gunakan hand sanitizer" class="w-75">
                         <p>Gunakan Hand Sanitizer</p>
                     </div>
